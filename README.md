@@ -26,3 +26,21 @@ materiaali 0:06
 tehtävät 38-39 0:22
 
 Yhteensä 4h 51min, 12 hajoamista
+
+## Osa 3
+materiaali 0:38
+tehtävät 40-45 0:38
+materiaali 0:04
+tehtävät 46-47 0:30
+materiaali 0:33
+tehtävät 48-50 0:36
+materiaali 0:54
+tehtävät 51-52 0:34
+materiaali 0:07
+tehtävät 53-54 0:21
+materiaali 0:06
+tehtävät 55-58 0:34
+materiaali 0:14
+tehtävä 59 0:12
+
+Yhteensä 6h 1min, 11 hajoamista
