@@ -44,3 +44,17 @@ materiaali 0:14
 tehtävä 59 0:12
 
 Yhteensä 6h 1min, 11 hajoamista
+
+## Osa 4
+materiaali 0:11
+tehtävä 60 0:23
+materiaali 0:41
+tehtävät 61-65 1:48
+materiaali 0:50
+tehtävät 66-67 1:37
+materiaali 0:02
+tehtävät 70-72 0:17
+materiaali 0:13
+tehtävät 73-80 (ei 79) 2:11
+
+Yhteensä 9h 50min, 14+1 hajoamista
