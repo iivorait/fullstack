@@ -58,3 +58,11 @@ materiaali 0:13
 teht‰v‰t 73-80 (ei 79) 2:11
 
 Yhteens‰ 9h 50min, 14+1 hajoamista
+
+## Osa 5
+materiaali 0:07
+teht‰v‰t 81-84 2:21
+materiaali 0:07
+teht‰v‰t 85-89 1:36
+
+Teht‰v‰‰n 89 asti yhteens‰ 4h 11min, 5 hajoamista ja sitten loppui aika
